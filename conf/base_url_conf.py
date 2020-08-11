@@ -1,5 +1,4 @@
 """
 Conf file for base_url
 """
-base_url = "https://qxf2.com/"
-
+base_url = "http://qxf2trainer.pythonanywhere.com/accounts/login/"
